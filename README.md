@@ -8,22 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:mohamedaly0206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-aly-0877792b6">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/mohamedaly0206">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedaly0206&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile Views"/>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 About Me
@@ -96,6 +80,10 @@ Machine Learning-based driver drowsiness detection application with real-time vi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedaly0206&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedaly0206&show_icons=true&theme=tokyonight" />
