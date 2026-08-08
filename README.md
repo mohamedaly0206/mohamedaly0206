@@ -82,10 +82,6 @@ Machine Learning-based driver drowsiness detection application with real-time vi
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedaly0206&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedaly0206&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaly0206&layout=compact&theme=tokyonight" />
 </p>
