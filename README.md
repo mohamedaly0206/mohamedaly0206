@@ -10,6 +10,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:mohamedaly0206@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohamed-aly-0877792b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/mohamedaly0206">
+    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 🚀 About Me
 
 - 📱 Mobile App Developer with **1+ year of professional experience** building cross-platform mobile applications using **Flutter** and **Dart**.
@@ -59,36 +76,23 @@
 
 ## 📁 Featured Projects
 
-### 💪 Super Fitness App
+### 💪 *[Super Fitness App](https://github.com/mohamedaly0206/Super-Fitness-app)*
 Cross-platform fitness application featuring workout programs, meal recommendations, AI-powered chat, authentication, and personalized fitness tracking.
 
-### 🌸 Flowery App
+### 🌸 *[Flowery App](https://github.com/mohamedaly0206/Flower-App)*
 Flutter e-commerce application with secure authentication, Stripe payments, order tracking, localization, and Clean Architecture.
 
-### 🚚 Flowery Rider
+### 🚚 *[Flowery Rider](https://github.com/mohamedaly0206/Flowery-Rider)*
 Delivery management application with real-time order tracking, Flutter Map integration, and order status updates.
 
-### 💬 Chatify
-Real-time messaging application built with Flutter, Firebase Authentication, Cloud Firestore, and Supabase Storage.
-
-### 📝 Online Exam App
+### 📝 *[Online Exam App](https://github.com/mohamedaly0206/Online-Exam-App)*
 Online examination platform featuring timed exams, instant results, and performance tracking.
 
-### 🚗 Sleepy Alert App
+### 💬 *[Chatify](https://github.com/MohamedAly002/Chatify)*
+Real-time messaging application built with Flutter, Firebase Authentication, Cloud Firestore, and Supabase Storage.
+
+### 🚗 *[Sleepy Alert App](https://github.com/MohamedAly002/sleepy-detection)*
 Machine Learning-based driver drowsiness detection application with real-time video streaming and Google Maps integration.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedaly0206&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaly0206&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaly0206&theme=tokyonight" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -109,24 +113,6 @@ Machine Learning-based driver drowsiness detection application with real-time vi
 - 🏆 Graduation Project: **Sleepy Alert App**, an ML-based driver safety application designed to improve road safety through drowsiness detection.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:mohamedaly0206@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mohamed-aly-0877792b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/mohamedaly0206">
-    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<br>
 
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b><br>
