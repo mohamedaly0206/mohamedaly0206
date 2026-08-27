@@ -27,7 +27,6 @@
 - 📱 Mobile App Developer with **1+ year of professional experience** building cross-platform mobile applications using **Flutter** and **Dart**.
 - 🏗️ Experienced in **Clean Architecture**, **BLoC/Cubit**, **REST APIs**, **Firebase**, **Dependency Injection**, and **Payment Integration**.
 - 💙 Passionate about building scalable, maintainable, and user-friendly mobile applications.
-- 🔭 Currently working on the **[Super Fitness App](https://github.com/mohamedaly0206/Super-Fitness-app)**.
 - 💬 Ask me about **Flutter, Dart, Clean Architecture, BLoC/Cubit, REST APIs, and Firebase**.
 - 📫 Reach me at **mohamedaly0206@gmail.com**
 
